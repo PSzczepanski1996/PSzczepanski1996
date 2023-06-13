@@ -9,7 +9,6 @@ I also have almost 4 years experience with writing *various* django (python-base
 - 💬 Ask me about Linux or Hackintoshes - do you remember GNU/Linux paste or golden Hackintosh Poland 2015/2016 era?
 - 📫 How to reach me: send mail to **p.szczepanski996@gmail.com**
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I have speech impediment, that led to funny situations in my high school
 
 ### My projects:
 
