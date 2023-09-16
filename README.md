@@ -10,6 +10,12 @@ I also have 5 years of commercial experience with writing *various* django (pyth
 - 📫 How to reach me: send mail to **p.szczepanski996@gmail.com**
 - 😄 Pronouns: He/him
 
+### My engineering thesis:
+
+The topic of engineer thesis was social media platform. 
+I implemented it using Django, PostgreSQL database backend, also I used Django-Channels, Django-Allauth, REST and jQuery libraries. 
+The whole project was wrote with queries and code optimization at Python level. 
+
 ### My projects:
 
 - [Rememberize](https://github.com/PSzczepanski996/Rememberize)
