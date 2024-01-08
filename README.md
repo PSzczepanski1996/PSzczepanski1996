@@ -37,3 +37,10 @@ Application that manages dispatchers and Taxi drivers, written in pure Django an
 - [xapian_haystack](https://github.com/PSzczepanski996/xapian-haystack)
 
 Xapian-haystack port to new versions of Django made years ago (now it's unneccesary because there is new repository maintainer).
+
+- [AnonimoweDiscoWyznania](https://github.com/PSzczepanski1996/AnonimoweDiscoWyznania)
+
+Bot that works via similar way to AnonimoweMirkoWyznania known from Wykop. Made because of friend request.
+Despite multiple dependencies (project is using discordpy, django, nginx, gunicorn and even aiohttp server) it uses about 100-150MB of RAM.
+
+
